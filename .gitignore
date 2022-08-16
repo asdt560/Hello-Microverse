@@ -1,2 +1,4 @@
 # Ignore test file.
 test.md
+
+node_modules
